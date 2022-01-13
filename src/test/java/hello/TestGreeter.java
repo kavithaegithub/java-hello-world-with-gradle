@@ -1,4 +1,4 @@
-package hello;
+/*package hello;
 
 import static org.junit.Assert.*;
 import org.junit.Before;
@@ -43,4 +43,4 @@ public class TestGreeter {
    }
    */
    
-}
+}*/
